@@ -11,7 +11,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" gif="https://gfycat.com/bluepartialhomalocephale">
+  <img align="right" width="160" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif">
+  
 </div>
   
   ##
