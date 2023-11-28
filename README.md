@@ -1,5 +1,4 @@
 ## Olá eu sou o Silas Neres, um jovem entusiasmado em programação!
-## Também conhecido como **Sistema** Inteligênte Logística e Automatização de Serviços
 
 <div align="center">
   <a href="https://github.com/Silas-neres">
@@ -17,6 +16,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="right" width="160" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif">
   
 </div>
